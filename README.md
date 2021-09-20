@@ -6,4 +6,5 @@
 
 ## 내용
 ### 함수형 인터페이스
-- CallBack 함수 학습 테스트 
+- CallBack 함수 학습 테스트 <br>
+  > [코드보기](https://github.com/yjksw/java-study/tree/funcitonal-interface)
